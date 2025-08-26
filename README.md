@@ -1,47 +1,11 @@
-# n8n_automations
+# AI AGENT VAULT
 
-[![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
-[![中文文档](https://img.shields.io/badge/中文文档-点击查看-orange)](README-zh.md)
-
-This repository contains a collection of n8n automation templates sourced from the internet. These templates are designed to help automate a wide range of tasks and workflows using [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe), making it easier for users to discover and use ready-made automations for various platforms and services.
-
-👉 [Join n8n and start automating now! 💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)
-<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">
-</a>
-
+AI Agent Vault hands you a full arsenal of expert-built AI workflows so you can slash busywork, unlock new revenue streams, and watch your productivity skyrocket—all before your next coffee break. You can easily download these N8N workflows and upload them into N8N to get started with AI agents today! 
 
 ---
 
 ## Disclaimer
-All automation templates in this repository were found online and are uploaded here solely for easy access and sharing. None of the templates are created or owned by the repository author. If you encounter any issues, errors, or damages resulting from the use of these templates, the repository author assumes no responsibility or liability. All rights to the original templates belong to their respective creators.
-
----
-
-☕ Before diving into the long list of categories and templates, grab your coffee-and if you enjoy my work, don’t forget to buy me a coffee! 
-
-<a href="https://buymeacoffee.com/enescingoz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
---- 
-
-## Categories & Template List
-
----
-
-🤖 Want to translate, rewrite, and repost Twitter (X) threads automatically?
-
-Looking to effortlessly transform and publish entire Twitter (X) threads in multiple languages?  
-Check out my [n8n](https://n8n.partnerlinks.io/h1pwwf5m4toe) Twitter Thread (Flood) Translator & Poster workflow—it automates extraction, translation, rewriting, and posting in one seamless process.  
-Perfect for creators, marketers, and anyone aiming to reach new audiences with minimal effort and ultra-low cost!
-
-👉 [Try the workflow here](https://n8n.io/workflows/4233-translate-and-repost-twitter-threads-in-multiple-languages-with-openai/)
-
----
-
-## 🧵 If you want to scrape Twitter (X) threads, definitely check this workflow
-
-Looking to extract and merge entire Twitter (X) threads quickly and affordably?  
-Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088-extract-and-merge-twitter-x-threads-using-twitterapiio/)-it’s lightning-fast, cost-effective, and perfect for automating Twitter thread extraction for research, content curation, or archiving!
+If you encounter any issues, errors, or damages resulting from the use of these templates, the repository author assumes no responsibility or liability
 
 ---
 ### Gmail & Email Automation
@@ -319,25 +283,3 @@ Check out my [n8n Twitter Thread Fetcher workflow](https://n8n.io/workflows/4088
 | Visual Regression Testing with Apify and AI Vision Model | Performs visual regression testing using Apify and an AI vision model to detect UI changes. | QA, AI Research | [Visual Regression Testing with Apify and AI Vision Model.txt](./AI_Research_RAG_and_Data_Analysis/Visual%20Regression%20Testing%20with%20Apify%20and%20AI%20Vision%20Model.json) |
 | 🔍 Perplexity Research to HTML: AI-Powered Content Creation | Transforms Perplexity AI research into HTML content for AI-powered content creation. | Content Creation, AI Research | [🔍 Perplexity Research to HTML_ AI-Powered Content Creation.txt](./AI_Research_RAG_and_Data_Analysis/%F0%9F%94%8D%20Perplexity%20Research%20to%20HTML_%20AI-Powered%20Content%20Creation.json) |
 
-
-### **Other**
-
-- ALL_unique_nodes.txt (node reference)
-
-... and more !
-
----
-
-If you would like to contribute additional templates or suggest new categories, feel free to open an issue or pull request!
-
----
-
-👉 [Join n8n and start automating now! 💎](https://n8n.partnerlinks.io/h1pwwf5m4toe)
-<a href="https://n8n.partnerlinks.io/h1pwwf5m4toe">
-  <img src="/img/n8n.png" alt="n8n" style="max-height: 300px;">
-</a>
-
----
-
-### **Sponsors**
-- [mahezsh](https://github.com/mahezsh)
