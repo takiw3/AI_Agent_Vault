@@ -4,6 +4,31 @@ AI Agent Vault hands you a full arsenal of expert-built AI workflows so you can 
 
 ---
 
+🚀 How to Use These AI Agents
+
+1. Browse the Vault
+→ Look through the folders and choose an AI agent that fits your need.
+
+2. Download the Agent
+→ Click on the agent’s .json file and download it to your computer.
+
+3. Go to n8n.io
+→ Sign in or create a free account.
+
+4. Create a New Workflow
+→ In your n8n dashboard, click “New Workflow”.
+
+5. Import the JSON File
+→ Click the 3 dots in the top-right > Import from file > Upload your agent JSON.
+
+6. Set Up Credentials
+→ Some agents may require API keys (e.g., OpenAI, Slack, Gmail, etc.). Add your credentials under Settings > Credentials.
+
+7. Save and Deploy
+→ Hit Save, then Activate your workflow to start using your AI agent.
+
+---
+
 ## Disclaimer
 If you encounter any issues, errors, or damages resulting from the use of these templates, the repository author assumes no responsibility or liability
 
